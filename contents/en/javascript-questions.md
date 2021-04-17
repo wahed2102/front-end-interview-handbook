@@ -8,6 +8,9 @@ Answers to [Front-end Job Interview Questions - JS Questions](https://github.com
 
 1. [What is a closure, and how/why would you use one?](#what-is-a-closure-and-howwhy-would-you-use-one)
 2. [Explain how `this` works in JavaScript](#explain-how-this-works-in-javascript)
+3. [What's the difference between a variable that is: `null`, `undefined` or undeclared? How would you go about checking for any of these states?](#whats-the-difference-between-a-variable-that-is-null-undefined-or-undeclared-how-would-you-go-about-checking-for-any-of-these-states)
+4. [What is a closure, and how/why would you use one?](#what-is-a-closure-and-howwhy-would-you-use-one)
+
   
 - [Table of Contents](#table-of-contents)
 	- [Explain event delegation](#explain-event-delegation)
