@@ -38,7 +38,7 @@ Answers to [Front-end Job Interview Questions - JS Questions](https://github.com
 	- [How do you organize your code? (module pattern, classical inheritance?)](#how-do-you-organize-your-code-module-pattern-classical-inheritance)
 	- [What's the difference between host objects and native objects?](#whats-the-difference-between-host-objects-and-native-objects)
 				- [References](#references-9)
-  - 
+  
 	- [Explain `Function.prototype.bind`.](#explain-functionprototypebind)
 				- [References](#references-11)
 	- [When would you use `document.write()`?](#when-would-you-use-documentwrite)
