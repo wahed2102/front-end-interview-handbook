@@ -77,37 +77,3 @@ You might be interested in the [Tech Interview Handbook](https://yangshun.github
 1. [CSS Questions](/contents/en/css-questions.md)
 1. [JavaScript Questions](/contents/en/javascript-questions.md)
 
-## Contents
-
-- [English](/contents/en/README.md)
-- [Chinese (Simplified) (简体中文)](/contents/zh/README.md)
-- [Japanese (日本語)](/contents/jp/README.md)
-- [Korean (한국어)](/contents/kr/README.md)
-- [Polish (Polski)](contents/pl/README.md)
-- [Portuguese (Português)](contents/pr/README.md)
-- [Russian (Русский)](/contents/ru/README.md)
-- [Tagalog](/contents/tl/README.md)
-
-## Related
-
-If you are interested in how data structures are implemented, check out [Lago](https://github.com/yangshun/lago), a Data Structures and Algorithms library for JavaScript. It is pretty much still WIP but I intend to make it into a library that is able to be used in production and also a reference resource for revising Data Structures and Algorithms.
-
-## Contributing
-
-### Code of Conduct
-
-We have adopted the same Code of Conduct as Facebook that we expect project participants to adhere to. Please read [the full text](https://code.facebook.com/codeofconduct) so that you can understand what actions will and will not be tolerated.
-
-### Contributing Guide
-
-Read our [contributing guide](/CONTRIBUTING.md) to learn about how you can contribute, how to propose improvements or if you are interested in translating the content.
-
-### Supporting
-
-Many hours of hard work have gone into this project. Your support will be very appreciated!
-
-<a href="https://www.buymeacoffee.com/yangshun" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;" ></a>
-
-## License
-
-All projects and packages in this repository are [MIT licensed](/LICENSE).
